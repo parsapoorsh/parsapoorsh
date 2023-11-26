@@ -5,4 +5,4 @@
 ___
 Things I Know:
 
-[![My Skills](https://skillicons.dev/icons?i=py,php,mysql,nginx,idea,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,php,mysql,nginx,arduino,ps,idea,git,github)](https://skillicons.dev)
