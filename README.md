@@ -11,6 +11,7 @@ Things I Know:
 [![nginx](https://skillicons.dev/icons?i=nginx)](https://www.nginx.com/)
 [![arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)
 [![ps](https://skillicons.dev/icons?i=ps)](https://www.adobe.com/products/photoshop.html)
-[![idea](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/)
+[![docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 [![git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![github](https://skillicons.dev/icons?i=github)](https://github.com/)
+[![idea](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/)
