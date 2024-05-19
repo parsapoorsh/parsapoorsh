@@ -3,7 +3,7 @@
 </picture>
 
 ___
-Things I Know:
+Things I Know/Use:
 
 [![py](https://skillicons.dev/icons?i=py)](https://www.python.org/)
 [![php](https://skillicons.dev/icons?i=php)](https://www.php.net/)
