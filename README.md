@@ -16,3 +16,5 @@ Things I Know/Use:
 
 
 My dot files in [parsapoorsh/dotfiles](https://github.com/parsapoorsh/dotfiles)
+
+🔒 PGP Key: [20896D6FF3927E926A2EF574FFB2FE0B3E3CD970](https://keys.openpgp.org/vks/v1/by-fingerprint/20896D6FF3927E926A2EF574FFB2FE0B3E3CD970)
