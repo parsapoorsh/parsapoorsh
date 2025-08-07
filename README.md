@@ -6,11 +6,13 @@ ___
 Things I Know/Use:
 
 [![py](https://skillicons.dev/icons?i=py)](https://www.python.org/)
+[![C](https://skillicons.dev/icons?i=c)](https://www.c-language.org/)
 [![php](https://skillicons.dev/icons?i=php)](https://www.php.net/)
 [![mysql](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)
 [![nginx](https://skillicons.dev/icons?i=nginx)](https://www.nginx.com/)
 [![docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![debian](https://skillicons.dev/icons?i=debian)](https://debian.org/)
 [![linux](https://skillicons.dev/icons?i=linux)](https://kernel.org/)
 [![ps](https://skillicons.dev/icons?i=ps)](https://www.adobe.com/products/photoshop.html)
 
