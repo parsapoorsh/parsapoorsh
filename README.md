@@ -7,7 +7,7 @@
 
 Things I've done/know/use:
 -----
-👨‍💻 \> lots of `python` (`celery`, `aiohttp`, `fastapi`, `pillow`, `opencv-python`, `numpy`, `pytest`, ...) <br>
+👨‍💻 \> lots of `python` (`celery`, `aiomysql`, `aiohttp`, `fastapi`, `pillow`, `opencv-python`, `numpy`, `pytest`, ...) <br>
 📹 \> good chunk of `Audio/Video` related experience with [FFmpeg](https://en.wikipedia.org/wiki/FFmpeg) (the best multimedia tool)<br>
 📚 \> know a lot about compression algorithms (love [LZMA](https://en.wikipedia.org/wiki/LZMA) in [XZ](https://en.wikipedia.org/wiki/XZ_Utils) or [7-Zip](https://en.wikipedia.org/wiki/7-Zip))<br>
 📟 \> IoT on [ESP8266](https://en.wikipedia.org/wiki/ESP8266) / [ESP32](https://en.wikipedia.org/wiki/ESP32) with `C++` [Aduino SDK](https://docs.arduino.cc/language-reference/) and `C` [ESP-IDF](https://github.com/espressif/esp-idf) ([RTOS](https://en.wikipedia.org/wiki/Real-time_operating_system) fork)<br>
@@ -33,6 +33,8 @@ File systems: [BTRFS](https://en.wikipedia.org/wiki/Btrfs) & [ZFS](https://en.wi
 OS: [Debian testing](https://wiki.debian.org/DebianTesting)<br>
 Web Server: [NGINX](https://en.wikipedia.org/wiki/Nginx)<br>
 IDE: [JetBrains](https://jetbrains.com/) products<br>
+K/V DB: [Redis](https://redis.io/)<br>
+Broker: [RabbitMQ](https://www.rabbitmq.com/)<br>
 Others: [zram](https://en.wikipedia.org/wiki/Zram), and [PGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)/[GPG](https://en.wikipedia.org/wiki/GNU_Privacy_Guard)<br>
 
 [![py](https://skillicons.dev/icons?i=py)](https://www.python.org/)
