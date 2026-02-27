@@ -2,7 +2,8 @@
 -----
 💻 im a 21y old computer enthusiast, living in **Iran, Gilan**.<br>
 📂 My dot files in [parsapoorsh/dotfiles](https://github.com/parsapoorsh/dotfiles)<br>
-🔒 PGP Key: [20896D6FF3927E926A2EF574FFB2FE0B3E3CD970](https://keys.openpgp.org/vks/v1/by-fingerprint/20896D6FF3927E926A2EF574FFB2FE0B3E3CD970)
+🔒 PGP Key: [20896D6FF3927E926A2EF574FFB2FE0B3E3CD970](https://keys.openpgp.org/vks/v1/by-fingerprint/20896D6FF3927E926A2EF574FFB2FE0B3E3CD970)<br>
+🔒 SSH Key: https://github.com/parsapoorsh.keys
 
 Things I've done/know/use:
 -----
