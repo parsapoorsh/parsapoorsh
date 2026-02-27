@@ -1,6 +1,6 @@
 ✋ HI, im PARSA
 -----
-💻 im a 21y old computer enthusiast, living in Iran, Gilan.<br>
+💻 im a 21y old computer enthusiast, living in **Iran, Gilan**.<br>
 📂 My dot files in [parsapoorsh/dotfiles](https://github.com/parsapoorsh/dotfiles)<br>
 🔒 PGP Key: [20896D6FF3927E926A2EF574FFB2FE0B3E3CD970](https://keys.openpgp.org/vks/v1/by-fingerprint/20896D6FF3927E926A2EF574FFB2FE0B3E3CD970)
 
@@ -20,8 +20,7 @@ Things I've done/know/use:
 
 > Jack of all trades<br>Master of `NULL`
 
-i still don't know what i want to major in, but im learning & trying everything.<br>
-im jumping all the branches of the tree (pun intended).<br>
+i still don't know what i want to <ins>major</ins> in, but im learning & trying everything, searching all the branches of the tree (pun intended).<br>
 also, imma fast learner if the thing is interesting<br>
 
 My Favorite/Preference:<br>
