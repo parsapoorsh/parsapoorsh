@@ -1,8 +1,8 @@
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture
+## Jack of all trades<br>Master of `NULL`
 
-___
+My dot files in [parsapoorsh/dotfiles](https://github.com/parsapoorsh/dotfiles)<br>
+🔒 PGP Key: [20896D6FF3927E926A2EF574FFB2FE0B3E3CD970](https://keys.openpgp.org/vks/v1/by-fingerprint/20896D6FF3927E926A2EF574FFB2FE0B3E3CD970)
+
 Things I Know/Use:
 
 [![py](https://skillicons.dev/icons?i=py)](https://www.python.org/)
@@ -15,8 +15,7 @@ Things I Know/Use:
 [![debian](https://skillicons.dev/icons?i=debian)](https://debian.org/)
 [![linux](https://skillicons.dev/icons?i=linux)](https://kernel.org/)
 [![ps](https://skillicons.dev/icons?i=ps)](https://www.adobe.com/products/photoshop.html)
-
-
-My dot files in [parsapoorsh/dotfiles](https://github.com/parsapoorsh/dotfiles)
-
-🔒 PGP Key: [20896D6FF3927E926A2EF574FFB2FE0B3E3CD970](https://keys.openpgp.org/vks/v1/by-fingerprint/20896D6FF3927E926A2EF574FFB2FE0B3E3CD970)
+___
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture
