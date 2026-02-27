@@ -8,7 +8,7 @@
 Things I've done/know/use:
 -----
 👨‍💻 \> lots of `python` (`celery`, `aiohttp`, `fastapi`, `pillow`, `opencv-python`, `numpy`, `pytest`, ...) <br>
-📹 \> good chunk of `Audio/Video` related experience with [FFmpeg](https://en.wikipedia.org/wiki/FFmpeg)<br>
+📹 \> good chunk of `Audio/Video` related experience with [FFmpeg](https://en.wikipedia.org/wiki/FFmpeg) (the best multimedia tool)<br>
 📚 \> know a lot about compression algorithms (love [LZMA](https://en.wikipedia.org/wiki/LZMA) in [XZ](https://en.wikipedia.org/wiki/XZ_Utils) or [7-Zip](https://en.wikipedia.org/wiki/7-Zip))<br>
 📟 \> IoT on [ESP8266](https://en.wikipedia.org/wiki/ESP8266) / [ESP32](https://en.wikipedia.org/wiki/ESP32) with `C++` `Aduino SDK` and `C` [ESP-IDF](https://github.com/espressif/esp-idf) ([RTOS](https://en.wikipedia.org/wiki/Real-time_operating_system) fork)<br>
 📡 \> done a bunch of `SDR` (software defined radio) stuff<br>
