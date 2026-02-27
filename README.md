@@ -19,8 +19,8 @@ Things I've done/know/use:
 🤖 \> really basic ML experience (know how import [PyTorch](https://en.wikipedia.org/wiki/PyTorch) 😂)<br>
 
 
-> Jack of all trades<br>Master of `NULL`
-
+Jack of all trades<br>Master of `NULL`
+-----
 i still don't know what i want to <ins>major</ins> in, but im learning & trying everything, searching all the branches of the tree (pun intended).<br>
 also, imma fast learner if the thing is interesting<br>
 
