@@ -4,7 +4,7 @@
 📂 My dot files in [parsapoorsh/dotfiles](https://github.com/parsapoorsh/dotfiles)<br>
 🔒 PGP Key: [20896D6FF3927E926A2EF574FFB2FE0B3E3CD970](https://keys.openpgp.org/vks/v1/by-fingerprint/20896D6FF3927E926A2EF574FFB2FE0B3E3CD970)<br>
 🔒 PGP Key on Hardware (Ledger Nano S+): [789B9333FDE3939A734C538510D5FB230E4B6C59](https://keys.openpgp.org/vks/v1/by-fingerprint/789B9333FDE3939A734C538510D5FB230E4B6C59)<br>
-🔒 SSH Key: https://github.com/parsapoorsh.keys
+🔒 SSH Keys: https://github.com/parsapoorsh.keys
 
 Things I've done/know/use:
 -----
