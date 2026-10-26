@@ -38,7 +38,7 @@ Web Server: [NGINX](https://en.wikipedia.org/wiki/Nginx)<br>
 IDE: [JetBrains](https://jetbrains.com/) products, KDE Kate<br>
 K/V DB: [Redis](https://redis.io/)<br>
 Broker: [RabbitMQ](https://www.rabbitmq.com/)<br>
-Cryptography: [PGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)/[GPG](https://en.wikipedia.org/wiki/GNU_Privacy_Guard), `sha3-256`, `AES-256`, `X25519`, `ML-KEM-1024`<br>
+Cryptography: [PGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)/[GPG](https://en.wikipedia.org/wiki/GNU_Privacy_Guard), [SHA3-256](https://en.wikipedia.org/wiki/SHA-3), [AES-256](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard), [X25519](https://en.wikipedia.org/wiki/Curve25519), [ML-KEM-1024](https://en.wikipedia.org/wiki/ML-KEM)<br>
 Others: [zram](https://en.wikipedia.org/wiki/Zram)<br>
 
 [![py](https://skillicons.dev/icons?i=py)](https://www.python.org/)
