@@ -35,10 +35,11 @@ Compression Algo: [LZMA](https://en.wikipedia.org/wiki/LZMA) & [zstd](https://en
 File systems: [BTRFS](https://en.wikipedia.org/wiki/Btrfs) & [ZFS](https://en.wikipedia.org/wiki/ZFS)<br>
 OS: [Debian testing](https://wiki.debian.org/DebianTesting)<br>
 Web Server: [NGINX](https://en.wikipedia.org/wiki/Nginx)<br>
-IDE: [JetBrains](https://jetbrains.com/) products<br>
+IDE: [JetBrains](https://jetbrains.com/) products, KDE Kate<br>
 K/V DB: [Redis](https://redis.io/)<br>
 Broker: [RabbitMQ](https://www.rabbitmq.com/)<br>
-Others: [zram](https://en.wikipedia.org/wiki/Zram), and [PGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)/[GPG](https://en.wikipedia.org/wiki/GNU_Privacy_Guard)<br>
+Cryptography: [PGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)/[GPG](https://en.wikipedia.org/wiki/GNU_Privacy_Guard), `sha3-256`, `AES-256`, `X25519`, `ML-KEM-1024`<br>
+Others: [zram](https://en.wikipedia.org/wiki/Zram)<br>
 
 [![py](https://skillicons.dev/icons?i=py)](https://www.python.org/)
 [![C](https://skillicons.dev/icons?i=c)](https://www.c-language.org/)
