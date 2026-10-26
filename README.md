@@ -19,6 +19,7 @@ Things I've done/know/use:
 📝 \> enough `Photoshop` to solve my own problems<br>
 📲 \> custom `Android` ROM user (currently on [HorizonDroid](https://github.com/HorizonV2))<br>
 🤖 \> really basic ML experience (know how import [PyTorch](https://en.wikipedia.org/wiki/PyTorch) 😂)<br>
+🔐 \> Learning Cryptography
 
 
 Jack of all trades<br>Master of `NULL`
