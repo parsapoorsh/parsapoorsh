@@ -33,12 +33,15 @@ Video Codec: [HEVC](https://en.wikipedia.org/wiki/High_Efficiency_Video_Coding) 
 Image Format: [JPEG-XL](https://jpegxl.info/), [SVG](https://en.wikipedia.org/wiki/SVG) & [Lottie](https://lottie.github.io/)<br>
 Compression Algo: [LZMA](https://en.wikipedia.org/wiki/LZMA) & [zstd](https://en.wikipedia.org/wiki/Zstd)<br>
 File systems: [BTRFS](https://en.wikipedia.org/wiki/Btrfs) & [ZFS](https://en.wikipedia.org/wiki/ZFS)<br>
-OS: [Debian testing](https://wiki.debian.org/DebianTesting)<br>
+OS: [Debian Testing](https://wiki.debian.org/DebianTesting)<br>
 Web Server: [NGINX](https://en.wikipedia.org/wiki/Nginx)<br>
 IDE: [JetBrains](https://jetbrains.com/) products, [KDE Kate](https://apps.kde.org/kate/)<br>
 K/V DB: [Redis](https://redis.io/)<br>
 Broker: [RabbitMQ](https://www.rabbitmq.com/)<br>
-Cryptography: [PGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)/[GPG](https://en.wikipedia.org/wiki/GNU_Privacy_Guard), [SHA3-256](https://en.wikipedia.org/wiki/SHA-3), [AES-256](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard), [X25519](https://en.wikipedia.org/wiki/Curve25519), [ML-KEM-1024](https://en.wikipedia.org/wiki/ML-KEM)<br>
+Symmetric Ciphers: [AES-256](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard), [ChaCha20](https://en.wikipedia.org/wiki/Salsa20#ChaCha_variant)<br>
+Asymmetric Crypto: [X25519](https://en.wikipedia.org/wiki/Curve25519)/[EdDSA](https://en.wikipedia.org/wiki/EdDSA), [ML-KEM-1024](https://en.wikipedia.org/wiki/ML-KEM)/ML-DSA<br>
+Hash Algo: [SHA2-256](https://en.wikipedia.org/wiki/SHA-2), [SHA3-256](https://en.wikipedia.org/wiki/SHA-3)<br>
+Crypto Software: [PGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)/[GPG](https://en.wikipedia.org/wiki/GNU_Privacy_Guard)<br>
 Others: [zram](https://en.wikipedia.org/wiki/Zram)<br>
 
 [![py](https://skillicons.dev/icons?i=py)](https://www.python.org/)
