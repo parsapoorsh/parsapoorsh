@@ -31,7 +31,7 @@ My Favorite/Preference:<br>
 -----
 Video Codec: [HEVC](https://en.wikipedia.org/wiki/High_Efficiency_Video_Coding) ([x265](https://en.wikipedia.org/wiki/X265)) & [AV1](https://en.wikipedia.org/wiki/AV1)<br>
 Image Format: [JPEG-XL](https://jpegxl.info/), [SVG](https://en.wikipedia.org/wiki/SVG) & [Lottie](https://lottie.github.io/)<br>
-Compression Algo: [LZMA](https://en.wikipedia.org/wiki/LZMA) & [zstd](https://en.wikipedia.org/wiki/Zstd)<br>
+Compression Algo: [LZMA](https://en.wikipedia.org/wiki/LZMA) & [Zstd](https://en.wikipedia.org/wiki/Zstd)<br>
 File systems: [BTRFS](https://en.wikipedia.org/wiki/Btrfs) & [ZFS](https://en.wikipedia.org/wiki/ZFS)<br>
 OS: [Debian Testing](https://wiki.debian.org/DebianTesting)<br>
 Web Server: [NGINX](https://en.wikipedia.org/wiki/Nginx)<br>
